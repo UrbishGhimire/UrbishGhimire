@@ -1,5 +1,7 @@
 # 👋 Hi, I'm **[Your Name]**
 
+> Replace placeholders like `[Your Name]`, `your-username`, and contact links with your real details.
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="Profile view counter badge" />
 </p>
@@ -10,7 +12,7 @@
 - 🌱 I’m currently learning: **[Technology / Skill]**
 - 👯 I’m looking to collaborate on: **[Open Source / Domain]**
 - 💬 Ask me about: **[Topics]**
-- 📫 Reach me at: **[your.email@example.com](mailto:your.email@example.com)**
+- 📫 Reach me at: **[email@domain.com](mailto:email@domain.com)**
 - ⚡ Fun fact: **[Something interesting about you]**
 
 ## 🛠️ Tech Stack

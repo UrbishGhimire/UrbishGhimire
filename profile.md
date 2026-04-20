@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning: **[Technology / Skill]**
 - 👯 I’m looking to collaborate on: **[Open Source / Domain]**
 - 💬 Ask me about: **[Topics]**
-- 📫 Reach me at: **your.email@example.com**
+- 📫 Reach me at: **[your.email@example.com](mailto:your.email@example.com)**
 - ⚡ Fun fact: **[Something interesting about you]**
 
 ## 🛠️ Tech Stack

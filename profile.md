@@ -1,7 +1,7 @@
-# 👋 Hi, I'm **Your Name**
+# 👋 Hi, I'm **[Your Name]**
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="Profile view counter badge" />
 </p>
 
 ## 🚀 About Me

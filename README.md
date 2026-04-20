@@ -1,8 +1,8 @@
 # Hi, I'm Urbish 👋
-
+<--
 <p align="center">
 <img src="profile.jpg" width="150" style="border-radius:50%;" /> 
-</p>
+</p> -->
 
 ## 🚀 About Me
 - CS student building things that pique my interest.
